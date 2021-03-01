@@ -1,0 +1,113 @@
+Core Java
+------------------------
+1.Explain JDK, JRE and JVM?
+2. Explain public static void main(String args[]) in Java
+3. What are wrapper classes in Java? Why java is not 100% object oriented programming?
+4. What are constructors in Java?
+5. What are the differences between Heap and Stack Memory in Java?
+6. variables, methods, objects store in which memory?
+7. What are access modifiers/specifiers in Java?
+8. What is an object in Java? and how is it created?
+9. What are the main concepts of OOPs in Java?
+10. Differentiate between the constructors and methods in Java?
+11. Difference between String, StringBuilder, and StringBuffer.
+12. What is Polymorphism? 
+13. complete difference between overloading and overriding?
+14. What is type-casting? types of type-casting?
+15. What is the difference between abstract classes and interface?
+16. What is inheritance in Java? What are the different types of inheritance in Java?
+17. Multilple inheritance is possible is java? how we acheive the same feature in java?
+18. What are the differences between Checked Exception and Unchecked Exception?
+19. What are semi-checked exception? why we call that semi-checked?
+20. What purpose do the keywords final, finally, and finalize? 
+21. What are all the methods of object class? 
+22. Difference between equals and hashCode?
+23. What is the difference between this and super keyword?
+24. What is static in java?
+25. What is null keyword?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SQL
+-----------------------------------------------------------------------------
+1. What are the types of Joins in SQL?
+2. What is difference betweem delete and truncate?
+3. What is primary key and foreign key?
+4. What are contraints?
+5. What is ALTER command?
+6. Explain one-to-one, one-to-many, many-to-many?
+7. Difference between char and varchar?
+8. Difference between GRANT and REVOKE?
+9. What is Normalization?
+10. What is unique, not null?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JDBC
+---------------------------------------------------------
+1. What are all the steps to connect to the database?
+2. What is the difference between execute, executeQuery, executeUpdate?
+3. What is meta data?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logical Coding and Number System
+------------------------------------
+1. Reverse a string?
+2. Factorial of a number?
+3. Fibbonacci series?
+4. Find out whether a number is Palindrome or not?
+5. Find out whether a number is prime or not?
+6. Find out whether a number is Armstrong or not?
+7. Print a pyramid using '*'?
+8. Print triangles usign '*'?
+
+
+
+
+Data Structure and Algorithms
+----------------------------------
+1. What is sigle linked list?
+2. What is double linked list?
+3. Bubble sort?
+4. Merge sort?
+5. Quick sort?
+6. Selection sort?
+7. Stack and Queue?
+8. Binary search?
+
+
+
